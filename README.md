@@ -15,11 +15,3 @@
 
 7.Run the script http://localhost/omms
 
-Admin Credential
-Username: admin
-Password: Test@123
-
-User Credential
-Username: anujk@gmail.com
-Password: Test@123
-or Register a new user
